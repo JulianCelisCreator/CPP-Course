@@ -1,8 +1,9 @@
 
-## Hide CLion files
+# Hide CLion files
 CMakeLists.txt
 
-##
+# Hide .idea
+.idea
 
 # Prerequisites
 *.d
