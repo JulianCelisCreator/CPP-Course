@@ -7,8 +7,8 @@ This is a repository developed on C++ with exercises, code and documentation
 - [Section 4](/Section_4) -> Using basic I/O streams
 
 Each section has two folders:
-* Course -> For code and exercises developed on videos
-* Challenge -> Contains `README.md` with challenges related with the section   
+* 🎓 **Course** -> For code and exercises developed on videos
+* 🎯 **Challenge**-> Contains `README.md` with **challenges** related with the section   
 ## 📂 Project structure
 
 ```text
@@ -18,5 +18,3 @@ Each section has two folders:
 └── Section_4
     ├── course
     └── challenge
-
-
