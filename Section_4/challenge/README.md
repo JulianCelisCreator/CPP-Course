@@ -25,7 +25,7 @@ Print this table aligned correctly:
 2     20    200
 3     30    300
 ```
-## 3️⃣ Hollow Square
+## 3️⃣ Hollow Square [Solution](./hollow_square.cpp)
 
 Print a 5×5 hollow square:
 ```text
@@ -35,7 +35,7 @@ Print a 5×5 hollow square:
 *   *
 *****
 ```
-## 4️⃣ Right-Aligned Triangle
+## 4️⃣ Right-Aligned Triangle [Solution](./right_aligned_triangle.cpp)
 
 Print:
 ```text
@@ -45,7 +45,7 @@ Print:
  ****
 *****
 ```
-## 5️⃣ Centered Pyramid (Odd Width)
+## 5️⃣ Centered Pyramid (Odd Width) [Solution](./centered_pyramid.cpp)
 
 Print a pyramid with height 4:
 ```text
@@ -55,7 +55,7 @@ Print a pyramid with height 4:
 *******
 ```
 
-## 6️⃣ Diamond Shape
+## 6️⃣ Diamond Shape [Solution](./diamond_shape.cpp)
 
 Print a diamond:
 ```text
@@ -67,7 +67,7 @@ Print a diamond:
   ***
    *
 ```
-## 7️⃣ Chessboard Pattern
+## 7️⃣ Chessboard Pattern [Solution](./chessboard_pattern.cpp)
 
 Print an 8×8 chessboard using # and .:
 
@@ -81,7 +81,7 @@ Print an 8×8 chessboard using # and .:
 #.#.#.#.
 .#.#.#.#
 ```
-## 8️⃣ Number Pyramid
+## 8️⃣ Number Pyramid [Solution](./number_pyramid.cpp)
 Print:
 ```text
 1
@@ -90,7 +90,7 @@ Print:
 4444
 55555
 ```
-## 9️⃣ Symmetric X Pattern
+## 9️⃣ Symmetric X Pattern [Solution](./Symmetric_x_Pattner.cpp)
 Print an X using *:
 ```text
 *   *
@@ -100,7 +100,7 @@ Print an X using *:
 *   *
 ```
 
-## 🔟 Complex Frame
+## 🔟 Complex Frame [Solution](./complex_frame.cpp)
 Print exactly:
 ```text
 +--------+
