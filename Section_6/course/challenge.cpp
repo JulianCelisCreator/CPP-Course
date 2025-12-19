@@ -32,5 +32,5 @@ int main() {
     cout<<"Tax: "<<tax<<endl;
     cout<<"===============\n";
     cout<<"Total: "<<tax + cost;
-
+    return 0;
 }
