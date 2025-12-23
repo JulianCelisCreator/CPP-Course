@@ -59,6 +59,10 @@ Your program should analyze at least:
 - Why does `cout` print `true` as `1` by default?
 
 ---
+### 5️⃣ Solution
+* Here there's a recommended [solution](./data_types.cpp)
+
+---
 
 ## 🎯 Goal of the Exercise
 

@@ -101,7 +101,9 @@ Answer these **after** writing your code.
 - What data type would you use if prices needed extremely high precision?
 
 ---
-
+### 5️⃣ Solution
+* Here there's a recommended [solution](./simple_exercise.cpp)
+---
 ## 🎯 Goal of the Exercise
 
 This exercise is designed to help you:
