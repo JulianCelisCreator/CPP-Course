@@ -102,7 +102,8 @@ Answer these **after** writing your code.
 
 ---
 ### 5️⃣ Solution
-* Here there's a recommended [solution](./simple_exercise.cpp)
+* Here there's a recommended [solution](./simple_exercise
+* .cpp)
 ---
 ## 🎯 Goal of the Exercise
 
