@@ -9,7 +9,7 @@ These exercises focus **only on output formatting and printing**, designed to im
 
 ---
 
-## 1️⃣ Exact Text Reproduction [Solution](./exact_text.cpp)
+## 1️⃣ Exact Text Reproduction [Solution](exact_text.cpp)
 Print **exactly** the following output:
 ```text
 ===== PROGRAM START =====
@@ -17,7 +17,7 @@ Loading...
 Done.
 ===== PROGRAM END =====
 ```
-## 2️⃣ Number Alignment [Solution](./number_alignment.cpp)
+## 2️⃣ Number Alignment [Solution](number_alignment.cpp)
 
 Print this table aligned correctly:
 ```text
@@ -25,7 +25,7 @@ Print this table aligned correctly:
 2     20    200
 3     30    300
 ```
-## 3️⃣ Hollow Square [Solution](./hollow_square.cpp)
+## 3️⃣ Hollow Square [Solution](hollow_square.cpp)
 
 Print a 5×5 hollow square:
 ```text
@@ -35,7 +35,7 @@ Print a 5×5 hollow square:
 *   *
 *****
 ```
-## 4️⃣ Right-Aligned Triangle [Solution](./right_aligned_triangle.cpp)
+## 4️⃣ Right-Aligned Triangle [Solution](right_aligned_triangle.cpp)
 
 Print:
 ```text
@@ -45,7 +45,7 @@ Print:
  ****
 *****
 ```
-## 5️⃣ Centered Pyramid (Odd Width) [Solution](./centered_pyramid.cpp)
+## 5️⃣ Centered Pyramid (Odd Width) [Solution](centered_pyramid.cpp)
 
 Print a pyramid with height 4:
 ```text
@@ -55,7 +55,7 @@ Print a pyramid with height 4:
 *******
 ```
 
-## 6️⃣ Diamond Shape [Solution](./diamond_shape.cpp)
+## 6️⃣ Diamond Shape [Solution](diamond_shape.cpp)
 
 Print a diamond:
 ```text
@@ -67,7 +67,7 @@ Print a diamond:
   ***
    *
 ```
-## 7️⃣ Chessboard Pattern [Solution](./chessboard_pattern.cpp)
+## 7️⃣ Chessboard Pattern [Solution](chessboard_pattern.cpp)
 
 Print an 8×8 chessboard using # and .:
 
@@ -81,7 +81,7 @@ Print an 8×8 chessboard using # and .:
 #.#.#.#.
 .#.#.#.#
 ```
-## 8️⃣ Number Pyramid [Solution](./number_pyramid.cpp)
+## 8️⃣ Number Pyramid [Solution](number_pyramid.cpp)
 Print:
 ```text
 1
@@ -100,7 +100,7 @@ Print an X using *:
 *   *
 ```
 
-## 🔟 Complex Frame [Solution](./complex_frame.cpp)
+## 🔟 Complex Frame [Solution](complex_frame.cpp)
 Print exactly:
 ```text
 +--------+

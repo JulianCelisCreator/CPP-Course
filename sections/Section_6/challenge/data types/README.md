@@ -60,7 +60,7 @@ Your program should analyze at least:
 
 ---
 ### 5️⃣ Solution
-* Here there's a recommended [solution](./data_types.cpp)
+* Here there's a recommended [solution](data_types.cpp)
 
 ---
 
