@@ -53,7 +53,6 @@ int main () {
     for (int i = 0; i < testCases.size(); i++) {
         std::vector<int> input = testCases[i];
 
-        max_frequency(input, record);
         if (max_frequency(input, record)) {
             std::cout << "The most frequent value: " << record << std::endl;
         } else {
